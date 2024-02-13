@@ -1,6 +1,6 @@
 {
   "name": "@toshiara/special-gammaln",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "log gamma function library (commonjs/esm)",
   "author": "Toshiaki Ara",
   "license": "Apache-2.0",
@@ -29,9 +29,9 @@
     "typescript": "^5.3.3"
   },
   "type": "module",
-  "homepage": "",
+  "homepage": "https://github.com/toshi-ara/special-gammaln",
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "git",
+    "url": "https://github.com/toshi-ara/special-gammaln"
   }
 }
