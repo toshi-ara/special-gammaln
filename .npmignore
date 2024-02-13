@@ -1,0 +1,5 @@
+node_modules/
+test/
+exsample/
+jest.config.js
+
